@@ -22,18 +22,27 @@ HTML & CSS (SCSS)
 
 C/C++
 
+**DON'T QUITE KNOW**
+
+Dart:
+- Flutter
+- Async
+- Firebase
+
 <br>
 
 ## I'm learning 🌱
 
 Unreal Engine (For VR Videogames)
 
+ML/AI with Tensorflow/w Python
+
 <br>
 
 ## Pronouns 😄 (He/Him)
 
 I've seen that everyone are adding their pronouns soo. <br>
-Just to be clear, I'm completely straight
+I'm straight
 
 <br>
 
@@ -42,6 +51,8 @@ Just to be clear, I'm completely straight
 ### I'm currently working on
 #### [PyWebby (Framework)][https://github.com/TomekPulkiewicz/pywebby]
 [https://github.com/TomekPulkiewicz/pywebby]: https://github.com/TomekPulkiewicz/pywebby "PyWebby"
+
+#### [StoreIT (Storage System)][https://github.com/KaZe-Python/StorageSystem][https://github.com/KaZe-Python/StorageSystem]: https://github.com/KaZe-Python/StorageSystem "StoreIT"
 
 <!--
 **KaZe-Python/KaZe-Python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
