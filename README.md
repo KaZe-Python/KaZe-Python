@@ -52,7 +52,8 @@ I'm straight
 #### [PyWebby (Framework)][https://github.com/TomekPulkiewicz/pywebby]
 [https://github.com/TomekPulkiewicz/pywebby]: https://github.com/TomekPulkiewicz/pywebby "PyWebby"
 
-#### [StoreIT (Storage System)][https://github.com/KaZe-Python/StorageSystem][https://github.com/KaZe-Python/StorageSystem]: https://github.com/KaZe-Python/StorageSystem "StoreIT"
+#### [StoreIT (Storage System)][https://github.com/KaZe-Python/StorageSystem]
+[https://github.com/KaZe-Python/StorageSystem]: https://github.com/KaZe-Python/StorageSystem "StoreIT"
 
 <!--
 **KaZe-Python/KaZe-Python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
