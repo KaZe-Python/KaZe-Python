@@ -1,5 +1,5 @@
 # [KaZe-Python][http://brunopio.cosentini.it]
-[http://brunopio.cosentini.it]: http://brunopio.cosentini.it "Bruno Pio Cosentini aka KaZe-Python or KaZe"
+[https://bruno-pio-cosentini.vercel.app]: https://bruno-pio-cosentini.vercel.app "Bruno Pio Cosentini aka KaZe-Python or KaZe"
 
 <br>
 
