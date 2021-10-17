@@ -1,4 +1,4 @@
-# [KaZe-Python][http://brunopio.cosentini.it]
+# [KaZe-Python][https://bruno-pio-cosentini.vercel.app]
 [https://bruno-pio-cosentini.vercel.app]: https://bruno-pio-cosentini.vercel.app "Bruno Pio Cosentini aka KaZe-Python or KaZe"
 
 <br>
